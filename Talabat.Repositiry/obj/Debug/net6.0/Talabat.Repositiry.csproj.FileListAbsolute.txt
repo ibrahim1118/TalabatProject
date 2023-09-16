@@ -1,0 +1,15 @@
+D:\project\Talabt.APIs\Talabat.Repositiry\bin\Debug\net6.0\Talabat.Repositiry.deps.json
+D:\project\Talabt.APIs\Talabat.Repositiry\bin\Debug\net6.0\Talabat.Repositiry.dll
+D:\project\Talabt.APIs\Talabat.Repositiry\bin\Debug\net6.0\Talabat.Repositiry.pdb
+D:\project\Talabt.APIs\Talabat.Repositiry\bin\Debug\net6.0\Talabat.Core.dll
+D:\project\Talabt.APIs\Talabat.Repositiry\bin\Debug\net6.0\Talabat.Core.pdb
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.csproj.AssemblyReference.cache
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.AssemblyInfoInputs.cache
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.AssemblyInfo.cs
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.csproj.CoreCompileInputs.cache
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.csproj.CopyComplete
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.dll
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\refint\Talabat.Repositiry.dll
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\Talabat.Repositiry.pdb
+D:\project\Talabt.APIs\Talabat.Repositiry\obj\Debug\net6.0\ref\Talabat.Repositiry.dll

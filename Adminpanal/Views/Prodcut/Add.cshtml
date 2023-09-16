@@ -1,0 +1,21 @@
+﻿@model ProductVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Add New Product</h1>
+<div class="container">
+    <form method="post" asp-action="Add" enctype="multipart/form-data">
+        <partial name="CreateOrUpdatePartialView" model="Model" />
+        <br />
+        <br />
+        <input type="submit" value="Add" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-light">Back To List</a>
+    </form>
+</div>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}
+
